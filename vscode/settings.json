@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "[plaintext]": {
+        "editor.wordBasedSuggestions": "off",
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
+    },
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "onWindowChange",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.accessibilitySupport": "off",
+    "window.zoomLevel": 1
+}
