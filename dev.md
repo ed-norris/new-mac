@@ -13,6 +13,7 @@
 
 * Install VS Code and the CLI from here: https://code.visualstudio.com/docs/setup/mac
 * Add the two files in `vscode` to `~/Library/Application Support/Code/User/`
+* Ensure `Sync Settings` is enabled
 
 ## Java
 
