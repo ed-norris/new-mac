@@ -12,3 +12,10 @@ PROMPT='%9c%{%F{yellow}%} ($(parse_git_branch))%{%F{none}%} $ '
 alias ls='ls -GFh'
 alias ll='ls -al'
 alias jn='jupyter notebook'
+
+alias gs='git status'
+alias gba='git branch -a'
+
+alias dc='docker container'
+alias di='docker image'
+alias dn='docker network'

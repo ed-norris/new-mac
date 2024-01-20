@@ -12,6 +12,7 @@
 ## Keyboard
 
 * Keyboard navigation (on)
+    * Keyboard Shortcuts | Services | Text | Search man Page Index in Terminal (uncheck)   <- this conflicts with IntelliJ IDEA
 
 ## Accessibility
 
@@ -34,3 +35,8 @@
 
 Copy `zshrc` to `~/.zshrc`,  which gives some aliases and this customized prompt:
 ![Customized prompt](image.png)
+
+## Import Screenshots into Photos
+Create a dedicated directory for Screenshots, e.g., ~/Documents/Screenshots
+
+Create an Automator rule to copy new Screenshots to Photos - https://www.macworld.com/article/545235/how-to-set-macos-to-auto-import-screenshots-to-photos.html
