@@ -9,14 +9,16 @@
     * `openjdk`
 * `Intellij IDEA` and whatever other IDEs
 
-## VS Code
+## Docker
+* Install the desktop version
+* Ensure the Docker PATH and alias settings are correct in .zshrc
 
+## VS Code
 * Install VS Code and the CLI from here: https://code.visualstudio.com/docs/setup/mac
 * Add the two files in `vscode` to `~/Library/Application Support/Code/User/`
 * Ensure `Sync Settings` is enabled
 
 ## Java
-
 After installing openjdk (this is from memory and is a bit hacky):
 
 * symlink that openjdk.jdk to `/Library/Java/JavaVirtualMachines` (instructions are given upon completion of the install, or you could `brew info openjdk` to see them again)

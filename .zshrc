@@ -19,3 +19,5 @@ alias gba='git branch -a'
 alias dc='docker container'
 alias di='docker image'
 alias dn='docker network'
+
+export PATH="$HOME/.docker/bin:$PATH"
