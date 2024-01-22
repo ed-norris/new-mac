@@ -9,6 +9,21 @@
     * `openjdk`
 * `Intellij IDEA` and whatever other IDEs
 
+## Git config
+`git config --global --add push.autoSetupRemote true`
+
+Get anonymous email from [GitHub](https://github.com/settings/emails), under Account | Primary Email address, something like `__githubId__+__githubName__@users.noreply.github.com`
+
+Also check the box for `Block command line pushes that expose my email `
+
+Set that locally, `~/.gitconfig` should have something like:
+
+```
+[user]
+	name = _your name__
+	email = __anonymous email__
+```
+
 ## Docker
 * Install the desktop version
 * Ensure the Docker PATH and alias settings are correct in .zshrc
