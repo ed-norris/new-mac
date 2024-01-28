@@ -4,36 +4,42 @@
 
 * `Chrome` and `Firefox`, plus ad blockers for each
 
-## Trackpad
+## System Settings
+
+### Trackpad
 
 * Point & Click | Tap to click (on)
 * More Gestures | App Exposé (swipe down with four fingers)
 
-## Keyboard
+### Keyboard
 
 * Keyboard navigation (on)
     * Keyboard Shortcuts | Services | Text | Search man Page Index in Terminal (uncheck)   <- this conflicts with IntelliJ IDEA
 
-## Accessibility
+### Accessibility
 
 * Zoom | Use scroll gesture with modifier keys to zoom (on)
 * Pointer Control | Trackpad Options
     * Use trackpad for dragging (on)
     * Three finger drag
 
-## Desktop & Dock
+### Desktop & Dock
 
 * Animate opening applications (off)
 * Automatically hide and show the Dock (on)
-* Default web browser (whatever)
+* Default web browser (probably Firefox)
+* (from a terminal)
+    * `defaults write com.apple.dock no-bouncing -bool TRUE`
+    * `killall Dock`
 
-## Control Center
+### Control Center
 
 * Battery | Show Percentage (on)
+* Menu Bar Only | Clock | Clock Options... | Time | Display the time with seconds (on)
 
 ## .zshrc
 
-Copy `zshrc` to `~/.zshrc`,  which gives some aliases and this customized prompt:
+Copy `.zshrc` to `~/.zshrc`,  which gives some aliases and this customized prompt with color and git branch:
 ![Customized prompt](image.png)
 
 ## Import Screenshots into Photos
