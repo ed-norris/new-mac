@@ -15,7 +15,14 @@ alias jn='jupyter notebook'
 
 alias gs='git status'
 alias gba='git branch -a'
+alias gbl='git branch'
+alias gsl='git stash list'
+alias gl='git log'
 
 alias dc='docker container'
 alias di='docker image'
 alias dn='docker network'
+alias ds='docker system'
+alias dv='docker volume'
+
+alias nrd='npm run dev'
