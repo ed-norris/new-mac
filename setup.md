@@ -15,6 +15,9 @@
 
 * Keyboard navigation (on)
     * Keyboard Shortcuts | Services | Text | Search man Page Index in Terminal (uncheck)   <- this conflicts with IntelliJ IDEA
+    * Text Input | Input Sources | Edit... 
+        * Add period with double-space (off)
+        * Use smart quotes and dashes (off)
 
 ### Accessibility
 
