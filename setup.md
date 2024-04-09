@@ -6,18 +6,9 @@
 
 ## System Settings
 
-### Trackpad
-
-* Point & Click | Tap to click (on)
-* More Gestures | App Exposé (swipe down with four fingers)
-
-### Keyboard
-
-* Keyboard navigation (on)
-    * Keyboard Shortcuts | Services | Text | Search man Page Index in Terminal (uncheck)   <- this conflicts with IntelliJ IDEA
-    * Text Input | Input Sources | Edit... 
-        * Add period with double-space (off)
-        * Use smart quotes and dashes (off)
+### Sound
+* Alert Volume (0)
+* Play user interface sound effects (off)
 
 ### Accessibility
 
@@ -25,6 +16,16 @@
 * Pointer Control | Trackpad Options
     * Use trackpad for dragging (on)
     * Three finger drag
+
+### Control Center
+
+* Control Center Modules | Sound | Always Show in Menu Bar
+* Battery | Show Percentage (on)
+* Menu Bar Only | Clock | Clock Options... | Time | Display the time with seconds (on)
+
+### Siri & Spotlight
+
+* Spotlight | Search results | uncheck everything but Applications and System Settings
 
 ### Desktop & Dock
 
@@ -35,10 +36,20 @@
     * `defaults write com.apple.dock no-bouncing -bool TRUE`
     * `killall Dock`
 
-### Control Center
+### Keyboard
 
-* Battery | Show Percentage (on)
-* Menu Bar Only | Clock | Clock Options... | Time | Display the time with seconds (on)
+* Keyboard navigation (on)
+* Keyboard Shortcuts 
+    * Services | Text | Search man Page Index in Terminal (uncheck)
+    * Function Keys | Use F1, F2, etc. keys as standard function keys (on)
+* Text Input | Input Sources | Edit... 
+        * Add period with double-space (off)
+        * Use smart quotes and dashes (off)
+
+### Trackpad
+
+* Point & Click | Tap to click (on)
+* More Gestures | App Exposé (swipe down with four fingers)
 
 ## .zshrc
 

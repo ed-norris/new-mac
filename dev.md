@@ -1,11 +1,8 @@
 # Applications
 
 ## Quick installs
-* `brew` 
-    * `gh`
-    * `rectangle`
-    * `jupyter`
-    * `openjdk`
+* `brew` from https://brew.sh
+* `brew install gh rectangle jupyterlabs openjdk`
 * `Intellij IDEA` and whatever other IDEs
 
 ## VS Code
@@ -20,9 +17,9 @@ Configuration after installing openjdk (this is from memory and is a bit hacky):
 * test it by creating a new project in IntelliJ and selecting a JDK
 
 ## git
-`git config --global init.defaultBranch main`
-`git config --global autoSetupRemote true`
-TBD: private email address
+* `git config --global init.defaultBranch main`
+* `git config --global autoSetupRemote true`
+* TBD: private email address
 
 ## IntelliJ IDEA
 

@@ -8,19 +8,23 @@ New windows open with (Same Profile)
 
 ## Profiles
 
-### Pro template
+### Profile
+* Pro
 
 ### Text
-Font | Monaco 12
-Cursor | Vertical Bar, Blink cursor
+* Background | Color & Effects | Opacity | 100%
+* Font | Monaco 12
+* ANSI Colors | Normal Blue | lighter for contrast against the black background
+* Cursor
+     * Vertical Bar (checked)
+     * Blink cursor (checked)
 
 ### Window
 
 ### Tab
 
 ### Shell
-
-When te shell exits (Close the window)
+* When the shell exits (Close the window)
 
 ### Keyboard
 
