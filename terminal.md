@@ -9,7 +9,7 @@ New windows open with (Same Profile)
 ## Profiles
 
 ### Profile
-* Pro
+* Select Pro | Default
 
 ### Text
 * Background | Color & Effects | Opacity | 100%
@@ -29,7 +29,9 @@ New windows open with (Same Profile)
 ### Keyboard
 
 ### Advanced
-
+* Bell
+     * Audible bell (unchecked)
+     * Visual bell (unchecked)
 
 ## Or
 Is it possible to just add this?

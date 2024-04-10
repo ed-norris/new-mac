@@ -9,6 +9,7 @@
 * Install VS Code and the CLI from here: https://code.visualstudio.com/docs/setup/mac
 * Add the two files in `vscode` to `~/Library/Application Support/Code/User/`
 * Ensure `Sync Settings` is enabled
+* cmd+P | `Shell Command: Install 'code' command in PATH`
 
 ## Java
 Configuration after installing openjdk (this is from memory and is a bit hacky):
