@@ -44,8 +44,10 @@
     * Services | Text | Search man Page Index in Terminal (uncheck)
     * Function Keys | Use F1, F2, etc. keys as standard function keys (on)
 * Text Input | Input Sources | Edit... 
-        * Add period with double-space (off)
-        * Use smart quotes and dashes (off)
+    * Correct spelling automatically (off)
+    * Capitalize words automatically (off)
+    * Add period with double-space (off)
+    * Use smart quotes and dashes (off)
 
 ### Trackpad
 
