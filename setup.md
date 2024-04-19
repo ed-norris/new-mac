@@ -40,6 +40,7 @@
 
 * Keyboard navigation (on)
 * Keyboard Shortcuts 
+    * Mission Control | Show Desktop (uncheck)
     * Services | Text | Search man Page Index in Terminal (uncheck)
     * Function Keys | Use F1, F2, etc. keys as standard function keys (on)
 * Text Input | Input Sources | Edit... 
