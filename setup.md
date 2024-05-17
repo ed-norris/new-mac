@@ -13,6 +13,7 @@
 ### Accessibility
 
 * Zoom | Use scroll gesture with modifier keys to zoom (on)
+* Display | Reduce transparency (on)
 * Pointer Control | Trackpad Options
     * Use trackpad for dragging (on)
     * Three finger drag
