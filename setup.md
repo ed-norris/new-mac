@@ -33,8 +33,10 @@
 * Animate opening applications (off)
 * Automatically hide and show the Dock (on)
 * Default web browser (probably Firefox)
-* (from a terminal)
+* (from a terminal) - wait a second before showing the dock and have it appear instantly
     * `defaults write com.apple.dock no-bouncing -bool TRUE`
+    * `defaults write com.apple.dock autohide-delay 1`
+    * `defaults write com.apple.dock autohide-time-modifier 0`
     * `killall Dock`
 
 ### Keyboard
